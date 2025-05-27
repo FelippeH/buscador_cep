@@ -1,0 +1,17 @@
+{
+  "name": "busca-cep",
+  "version": "1.0.0",
+  "description": "Projeto terminal para buscar CEP por cidade e rua usando ViaCEP",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
